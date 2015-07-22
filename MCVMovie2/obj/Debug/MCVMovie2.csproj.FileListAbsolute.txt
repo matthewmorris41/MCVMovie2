@@ -55,3 +55,4 @@ c:\users\owner\documents\visual studio 2013\Projects\MCVMovie2\MCVMovie2\obj\Deb
 c:\users\owner\documents\visual studio 2013\Projects\MCVMovie2\MCVMovie2\obj\Debug\MCVMovie2.csprojResolveAssemblyReference.cache
 C:\Users\Owner\documents\visual studio 2013\Projects\MCVMovie2\MCVMovie2\obj\Debug\MCVMovie2.Migrations.Initial.resources
 C:\Users\Owner\documents\visual studio 2013\Projects\MCVMovie2\MCVMovie2\obj\Debug\MCVMovie2.csproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2013\Projects\MCVMovie2\MCVMovie2\obj\Debug\MCVMovie2.Migrations.Rating.resources
